@@ -24,7 +24,7 @@ I am a UTM student, currently taking a course in data engineering
 * ⚡  i want cgpa 4.0 to save money
 * 🏸 my hobby is playing badminton
 * 🌐 e-portfolio: https://hongjiabao.github.io/JIABAO.github.io/
-* 💻 Linkedin : https://www.linkedin.com/in/hong-jia-bao-a83959334/?trk=opento_sprofile_details
+* 💻 Linkedin : [Linkedin_HONGJIABAO](https://www.linkedin.com/in/hong-jia-bao-a83959334/?trk=opento_sprofile_details)
 
 <hr>
 
