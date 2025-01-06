@@ -49,7 +49,7 @@ University 🎓
 <pre>University Technology Malaysia- Bachelor of Computer Science (Data Engineering) </pre>
 
 ### Position
-Primary school- president of red cresent, prefect🧍🏻 ,prs
+Primary school- president of red cresent , prefect🧍🏻 , prs
 
 Secondary school - vice president of red cresent, president of volleyball club 🏐, group leader of stem club 🥼
 
