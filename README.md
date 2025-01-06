@@ -23,6 +23,7 @@ I am a UTM student, currently taking a course in data engineering
 * 🤝  I'm open to collaborating on assignment
 * ⚡  i want cgpa 4.0 to save money
 * 🏸 my hobby is playing badminton
+* 🌐 e-portfolio: https://hongjiabao.github.io/JIABAO.github.io/
 
 <a href="https://www.github.com/HONGJIABAO" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HONGJIABAO?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
