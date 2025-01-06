@@ -28,9 +28,14 @@ src="https://img.shields.io/github/followers/HONGJIABAO?logo=github&style=for-th
 
 <p align="left"> <a href="https://www.github.com/HONGJIABAO" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/jiabao0920" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
-### 🎓 My Education Journey
-🏫 Primary School (📅 2012 - 2017
+### My Course
+[Technology and Information System](https://github.com/HONGJIABAO/Technology-and-Information-System)
 
+[Digital Logic](https://github.com/HONGJIABAO/digital-logic)
+
+[Programming Technique 1](https://github.com/HONGJIABAO/programming-technique-1)
+
+[Discrete Structure](https://github.com/HONGJIABAO/Discrete-Structure)
 
 ### Badges
 
