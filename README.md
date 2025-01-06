@@ -22,6 +22,7 @@ I am a UTM student, currently taking a course in data engineering
 * 🧠  I'm learning computer science
 * 🤝  I'm open to collaborating on assignment
 * ⚡  i want cgpa 4.0 to save money
+* 🏸 my hobby is playing badminton
 
 <a href="https://www.github.com/HONGJIABAO" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HONGJIABAO?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
@@ -36,6 +37,21 @@ src="https://img.shields.io/github/followers/HONGJIABAO?logo=github&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/HONGJIABAO" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/jiabao0920" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+
+### School Journey
+Primary School🔤
+<pre>SJK (C) CHUNG HUA NO.5</pre>
+Secondary School 🏫
+<pre>SMK BANDAR KUCHING NO.1 </pre>
+Pre-University 📚
+<pre>University Technology Malaysia - Foundation in Physical Science</pre>
+University 🎓
+<pre>University Technology Malaysia- Bachelor of Computer Science (Data Engineering) </pre>
+
+### Position
+Primary school- president of red cresent, prefect ,prs
+Secondary school - vice president of red cresent, president of volleyball club, group leader of stem club
+
 
 ### My Course
 [Technology and Information System](https://github.com/HONGJIABAO/Technology-and-Information-System)
