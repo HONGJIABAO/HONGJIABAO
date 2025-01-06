@@ -11,7 +11,7 @@ Matric Number🔢
 <pre>A24CS0251</pre>
 University🎓
 <pre>University Technology Malaysia</pre>
-Course🎓
+Course📚
 <pre>Bachelor of Computer Science (Data Engineering)</pre>
 
 I am a UTM student, currently taking a course in data engineering
