@@ -3,6 +3,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 STUDENT
 -------
+<source type="image/webp" srcset="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWphMDk0Z2lsYmxnc3hxOW01ZWNnaGxxM3UzbTJwaXBwaXJkZjR1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.webp">
+<img align="right" class="giphy-gif-img giphy-img-loaded" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWphMDk0Z2lsYmxnc3hxOW01ZWNnaGxxM3UzbTJwaXBwaXJkZjR1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.gif" style="max-width: 100%; display: inline-block;">
+
+<pre>Hong Jia Bao</pre>
+Matric Number
+<pre>A24CS0251</pre>
+University
+<pre>University Technology Malaysia</pre>
+Course
+<pre>Bachelor of Computer Science (Data Engineering)</pre>
 
 I am a UTM student, currently taking a course in data engineering
 
@@ -17,7 +27,6 @@ I am a UTM student, currently taking a course in data engineering
 src="https://img.shields.io/github/followers/HONGJIABAO?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
 
 ### Skills
-
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a>
