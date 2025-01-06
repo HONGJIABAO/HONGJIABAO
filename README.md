@@ -28,18 +28,18 @@ I am a UTM student, currently taking a course in data engineering
 <a href="https://www.github.com/HONGJIABAO" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HONGJIABAO?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a>
 
-### Skills
+### Skills 🖥️🔧
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a>
 </p>
 
 
-### Socials
+### Socials 📱
 
 <p align="left"> <a href="https://www.github.com/HONGJIABAO" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/jiabao0920" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
-### School Journey
+### School Journey 🏫
 Primary School🔤
 <pre>SJK (C) CHUNG HUA NO.5</pre>
 Secondary School 🏫
@@ -49,13 +49,13 @@ Pre-University 📚
 University 🎓
 <pre>University Technology Malaysia- Bachelor of Computer Science (Data Engineering) </pre>
 
-### Position
+### Position ✌🏻
 Primary school- president of red cresent , prefect🧍🏻 , prs
 
 Secondary school - vice president of red cresent, president of volleyball club 🏐, group leader of stem club 🥼
 
 
-### My Course
+### My Course 📖
 [Technology and Information System](https://github.com/HONGJIABAO/Technology-and-Information-System)
 
 [Digital Logic](https://github.com/HONGJIABAO/digital-logic)
@@ -64,7 +64,7 @@ Secondary school - vice president of red cresent, president of volleyball club �
 
 [Discrete Structure](https://github.com/HONGJIABAO/Discrete-Structure)
 
-### Badges
+### Badges🔧
 
 <b>My GitHub Stats</b>
 
